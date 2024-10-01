@@ -18,7 +18,8 @@
   --highlights: #000000;
   --backgroud: #FAFAFA;
 
-  --ff-base: "Montserrat", sans-serif --text-sm: 0.875rem --text-base: 1rem;
+  --ff-base: "Montserrat", sans-serif;
+  --text-sm: 0.875rem --text-base: 1rem;
   --text-lg: 2.5rem;
   --text-xl: 4rem;
 }

@@ -105,6 +105,19 @@ section.gallery {
   }
 }
 
+@media (width<=80em) {
+  section.gallery .content {
+    display: grid;
+    grid-template-areas:
+      "A"
+      "B"
+      "C"
+      "D";
+
+  }
+}
+
+
 @keyframes image-appear {
   from {
     opacity: 0;
